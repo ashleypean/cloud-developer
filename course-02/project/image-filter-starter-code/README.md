@@ -9,7 +9,7 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 
 [Link](http://image-filter-project-dev.us-east-1.elasticbeanstalk.com/)
 
-![Elastic Beanstalk Status Image](https://github.com/ashleypean/cloud-developer/blob/master/course-02/project/image-filter-starter-code/src/img/image-filter-project-dev.png?raw=true)
+[](src/img/image-filter-project-dev.png)
 
 3. [The Image Filtering Microservice](https://github.com/udacity/cloud-developer/tree/master/course-02/project/image-filter-starter-code), the final project for the course. It is a Node-Express application which runs a simple script to process images. [Your assignment]
 
